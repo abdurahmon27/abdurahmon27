@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdurahmon</h1>
 <h3 align="center">A react frontend developer from Uzbekistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmon27&label=Profile%20views&color=0e75b6&style=flat" alt="abdurahmon27" /> </p>
-
 - 🌱 I’m currently learning **Redux, TypeScript, NextJs**
 
 - 👨‍💻 All of my projects are available at [https://bekzotovich12.netlify.app/](https://bekzotovich12.netlify.app/)
