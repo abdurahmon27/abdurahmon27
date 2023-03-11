@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript, NextJs**
 
-- 👨‍💻 All of my projects are available at [bekzotovich12.netlify.app](bekzotovich12.netlify.app)
+- 👨‍💻 All of my projects are available at [https://bekzotovich12.netlify.app/](https://bekzotovich12.netlify.app/)
 
 - 📝 I regularly write articles on [https://t.me/abdurahmon_0fficial](https://t.me/abdurahmon_0fficial)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bekzotovich12@gmail.com**
 
-- 📄 Know about my experiences [bekzotovich12.netlify.app](bekzotovich12.netlify.app)
+- 📄 Know about my experiences [https://bekzotovich12.netlify.app/](https://bekzotovich12.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
