@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://t.me/abdurahmon_mamadiyorov](https://t.me/abdurahmon_mamadiyorov)
 
-- 💬 Ask me about **react, JavaScript, Bootstrap, Tailwind Css**
+- 💬 Ask me about **reactJs, JavaScript, Bootstrap, Tailwind Css**
 
 - 📫 How to reach me **bekzotovich12@gmail.com**
 
