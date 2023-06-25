@@ -24,7 +24,8 @@
 ## 🛠️ SkillSet
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="JavaScript" width="50" height="50"/> &nbsp; 
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title ="React.JS/React Native" width="50" height="50"/> &nbsp; 
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title ="React.JS/React Native" width="50" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title ="NextJs" width="50" height="50" /> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title ="TypeScript" width="50" height="50"/> &nbsp;
   <img src ="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title ="Redux.JS" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title ="Google Console Cloud GCP" width="50" height="50"/> &nbsp;
@@ -33,10 +34,15 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title ="node.JS" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title ="Yarn" width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title ="UBUNTU" width="50" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" title ="Fedora" width="50" height="50" /> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "Vscode"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title = "CSS3"  width="50" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "Sass"  width="50" height="50" /> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title = "HTML5"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title = "Linux"  width="50" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg" title="Gimp" width="50" height="50" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="50" height="50" /> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title = "jQuery"  width="50" height="50"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title = "PHP"  width="50" height="50"/> &nbsp;
