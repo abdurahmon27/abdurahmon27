@@ -1,59 +1,21 @@
-<h1 align="center">Hi 👋, I'm Abdurahmon</h1>
-<h3 align="center">A react frontend developer from Uzbekistan</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurahmon27&label=Profile%20views&color=0e75b6&style=flat" alt="abdurahmon27" /> </p>
-- 🌱 I’m currently learning **Redux, NextJs**
-
-- 👨‍💻 All of my projects are available at [https://bekzotovich12.netlify.app/](https://bekzotovich12.netlify.app/)
-
-- 📝 I regularly write articles on [https://t.me/abdurahmon_mamadiyorov](https://t.me/abdurahmon_mamadiyorov)
-
-- 💬 Ask me about **reactJs, JavaScript, Bootstrap, Tailwind Css**
-
-- 📫 How to reach me **bekzotovich12@gmail.com**
-
-- 📄 Know about my experiences [https://bekzotovich12.netlify.app/](https://bekzotovich12.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kedin.com/in/abdurahmon-mamadiyorov-23607525b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kedin.com/in/abdurahmon-mamadiyorov-23607525b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100075974059076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100075974059076" height="30" width="40" /></a>
-<a href="https://instagram.com/_abdurakhmon.05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/_abdurakhmon.05" height="30" width="40" /></a>
-</p>
+# 💫 About Me:
+🌱 I’m currently learning **Redux, NextJs**<br>👨‍💻 All of my projects are available at https://bekzotovich12.netlify.app/<br>📝 I regularly write articles on https://t.me/abdurahmon_mamadiyorov<br>💬 Ask me about reactJs, JavaScript, Bootstrap, Tailwind Css<br>📫 How to reach me bekzotovich12@gmail.com<br>📄 Know about my experiences https://bekzotovich12.netlify.app/
 
 
-## 🛠️ SkillSet
-<div>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="JavaScript" width="50" height="50"/> &nbsp; 
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title ="React.JS/React Native" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" title ="NextJs" width="50" height="50" /> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title ="TypeScript" width="50" height="50"/> &nbsp;
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title ="Redux.JS" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  title ="Google Console Cloud GCP" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title ="TailwindCSS" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title ="MongoDB" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title ="node.JS" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title ="Yarn" width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title ="UBUNTU" width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" title ="Fedora" width="50" height="50" /> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "Vscode"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title = "CSS3"  width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title = "Sass"  width="50" height="50" /> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  title = "HTML5"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title = "Linux"  width="50" height="50"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-plain.svg" title="Gimp" width="50" height="50" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="50" height="50" /> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "Git"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title = "jQuery"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title = "PHP"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title = "Babel"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title = "Bootstrap"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title = "Heroku"  width="50" height="50"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title = "Vim"  width="50" height="50"/> &nbsp;
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Abdurahmon#8445) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100075974059076) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdurahmon._27/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdurahmon-mamadiyorov-23607525b/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/abdurahmonmamadiyorov/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20773672) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/abdurahmon27) 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurahmon27&show_icons=true&locale=en&layout=compact" alt="abdurahmon27" /></p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abdurahmon27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdurahmon27&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurahmon27&show_icons=true&locale=en" alt="abdurahmon27" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdurahmon27&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurahmon27&" alt="abdurahmon27" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=abdurahmon27&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
