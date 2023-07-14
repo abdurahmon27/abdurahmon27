@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🌱 I’m currently learning **Redux, NextJs**<br>👨‍💻 All of my projects are available at here (in private repos) but you can fint some of them https://bekzotovich.uz <br>📝 I regularly write articles on https://t.me/abdurahmon_mamadiyorov<br>💬 Ask me about reactJs, JavaScript, Bootstrap, Tailwind Css<br>📫 How to reach me bekzotovich12@gmail.com<br>📄 Know about my experiences https://bekzotovich12.uz/
+🌱 I’m currently learning **Redux, NextJs**<br>👨‍💻 All of my projects are available at here (in private repos) but you can fint some of them https://bekzotovich.uz <br>📝 I regularly write articles on https://t.me/abdurahmon_mamadiyorov<br>💬 Ask me about reactJs, JavaScript, Bootstrap, Tailwind Css<br>📫 How to reach me bekzotovich12@gmail.com<br>📄 Know about my experiences https://bekzotovich.uz/
 
 [![](https://visitcount.itsvg.in/api?id=abdurahmon27&icon=2&color=1)](https://visitcount.itsvg.in)
 
