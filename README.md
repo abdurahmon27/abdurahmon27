@@ -1,7 +1,7 @@
 # 👨‍💻 About Me:
 🌱 I’m currently learning **Java**<br>👨‍💻 All of my projects are available at here (in private repos) but you can fint some of them https://bekzotovich.uz <br>📝 I regularly write articles on https://blog.bekzotovich.uz/<br>💬 Ask me about reactJs, JavaScript, Bootstrap, Tailwind Css<br>📫 How to reach me bekzotovich12@gmail.com<br>📄 Know about my experiences https://bekzotovich.uz/
 
-[![](https://visitcount.itsvg.in/api?id=abdurahmon27&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abdurahmon27&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/R4ejmnCgRt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100075974059076) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abdurahmon._27/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurahmon-mamadiyorov/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/abdurahmonmamadiyorov/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20773672) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/abdurahmon27) 
@@ -26,7 +26,7 @@
  <span align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=abdurahmon27&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abdurahmon27&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdurahmon27&theme=tokyonight&hide_border=false)<br/>
 
 
