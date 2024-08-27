@@ -1,5 +1,5 @@
-# 👨‍💻 About Me:
-🌱 I’m currently learning **Java**<br>👨‍💻 All of my projects are available at here (in private repos) but you can fint some of them https://bekzotovich.uz <br>📝 I regularly write articles on https://blog.bekzotovich.uz/<br>💬 Ask me about reactJs, JavaScript, Bootstrap, Tailwind Css<br>📫 How to reach me bekzotovich12@gmail.com<br>📄 Know about my experiences https://bekzotovich.uz/
+# 👨‍💻 About Me
+🌱 I’m currently learning **Node.js**<br>👨‍💻 All of my projects are available at here (in private repos) but you can fint some of them https://bekzotovich.uz https://haywan.uz/ <br> 📫 How to reach me bekzotovich12@gmail.com<br>📄 Know about my experiences https://bekzotovich.uz/<br> https://haywan.uz/
 
 [![](https://visitcount.itsvg.in/api?id=abdurahmon27&icon=1&color=0)](https://visitcount.itsvg.in)
 
