@@ -1,0 +1,38 @@
+= My Project Name
+John Doe <johndoe@example.com>
+v1.0, 2025-01-23
+
+== Introduction
+
+This is a simple example of an AsciiDoc file. AsciiDoc is a lightweight markup language used for writing documentation, books, articles, and more.
+
+== Features
+
+* Simple formatting
+* Supports tables, lists, images, and code blocks
+* Ideal for technical documentation
+
+== Installation
+
+To install the project, follow these steps:
+
+. Clone the repository
+. Run `make install`
+. Start the service with `make start`
+
+== Usage
+
+Example usage:
+
+[source,python]
+----
+print("Hello, World!")
+----
+
+== Contributing
+
+We welcome contributions! Please fork the repository and submit a pull request.
+
+== License
+
+This project is licensed under the MIT License.
