@@ -1,10 +1,8 @@
 = 👨‍💻 Abdurahmon Mamadiyorov
 
-== 🚀 Professional Profile
-
 [.text-center]
 --
- 👨‍💻 Full-Stack Developer & Frontend engineer
+ 👨‍💻 Software Engineer & Frontend engineer
 --
 
 === 📍 Quick Links
