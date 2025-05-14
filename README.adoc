@@ -1,89 +1,108 @@
-= 👨‍💻 Abdurahmon Mamadiyorov
+#  Abdurahmon Mamadiyorov
 
 [.text-center]
 --
- 👨‍💻 Software Engineer & Frontend engineer
+ Software Engineer & Frontend Specialist
 --
 
-=== 📍 Quick Links
-[cols="2*^",frame=none,grid=none]
+##  Quick Links
+
+[cols="^,^",frame=none,grid=none]
 |===
-| *Projects* 
-| https://bekzotovich.uz[Personal Portfolio]
-| https://haywan.uz/[Haywan kinda Portfolio]
-| https://linkify.uz/[Linkify - URL Shortener]
-
-| *Contact* 
-| mailto:bekzotovich12@gmail.com[bekzotovich12@gmail.com]
-
-| *Portfolio* 
-| https://bekzotovich.uz/[View My Professional Experience]
+| *Projects* | *Contact*
+| https://youtube.com/@bekzotovich[YouTube] | mailto:bekzotovich12@gmail.com[bekzotovich12@gmail.com]
+| https://haywan.uz/[Personal Website] | https://bekzotovich.uz/[Professional Portfolio]
+| https://linkify.uz/[Linkify - URL Shortener] |
 |===
 
-== 🌐 Social Network
-[cols="^1*",frame=none,grid=none]
+## 🌐 Connect With Me
+
+[cols="^,^,^,^",frame=none,grid=none]
 |===
-| https://discord.gg/R4ejmnCgRt[Discord]
-| https://www.linkedin.com/in/abdurahmon-mamadiyorov/[LinkedIn]
-| https://www.instagram.com/abdurahmon._27/[Instagram]
-| https://codepen.io/abdurahmon27[CodePen]
+| https://discord.gg/R4ejmnCgRt[Discord] | https://www.linkedin.com/in/abdurahmon-mamadiyorov/[LinkedIn] | https://www.instagram.com/abdurahmon._27/[Instagram] | https://codepen.io/abdurahmon27[CodePen]
 |===
 
-== 💻 Comprehensive Technology Stack
+## 💻 Technology Stack
 
-=== 🧑‍💻 Programming Languages
-image:https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white[Go]
-image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript]
+### 🧑‍💻 Core Programming Languages
+image:https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E[JavaScript (ES6+)]
 image:https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white[TypeScript]
+image:https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white[Go]
 image:https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54[Python]
-image:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white[Java]
+image:https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white[Java (Basic)]
 
-
-=== 🌐 Web Frameworks & Libraries
+### 🌐 Frontend Development
 image:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB[React]
 image:https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white[Next.js]
-image:https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB[React Native]
+image:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white[HTML5]
+image:https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white[CSS3]
+image:https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white[SCSS/SASS]
+image:https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white[Tailwind CSS]
+
+### 🛠️ Backend & API Development
+image:https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white[Go (net/http)]
 image:https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white[Node.js]
 image:https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB[Express.js]
+image:https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white[RESTful APIs]
 
-=== 🤖 Robotics & IoT
+### 🗃️ Databases & Storage
+image:https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white[PostgreSQL]
+image:https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white[SQLite]
+image:https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white[MongoDB]
+image:https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase[Firebase]
+
+### 🚀 Deployment & DevOps
+image:https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white[Vercel]
+image:https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white[Heroku]
+image:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white[AWS]
+image:https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white[Google Cloud]
+image:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white[Docker]
+
+### ⚙️ Developer Tools & Workflow
+image:https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white[Git]
+image:https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white[GitHub]
+image:https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white[GitLab]
+image:https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white[VS Code]
+image:https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white[GitHub Actions]
+
+### 🎨 UI Libraries & State Management
+image:https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white[Chakra UI]
+image:https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white[Material UI]
+image:https://img.shields.io/badge/Radix%20UI-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white[Radix UI]
+image:https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white[Redux]
+image:https://img.shields.io/badge/context--api-%23000000.svg?style=for-the-badge&logo=react&logoColor=white[Context API]
+
+### 🤖 Hardware & IoT
 image:https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white[Arduino]
 image:https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi[Raspberry Pi]
 
-=== 🚀 Cloud & Deployment
-image:https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase[Firebase]
-image:https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white[Google Cloud]
-image:https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white[AWS]
-image:https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white[Heroku]
-image:https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white[Vercel]
-
-=== 📊 Technology Distribution Analysis
-[cols="3*^",frame=none,grid=none]
+### 🧠 Software Engineering & Architecture
+[cols="^,^",frame=none,grid=none]
 |===
-| Category | Total Technologies | Notable Technologies
-| Fronend Development | 2 | React, Next.js
-| Mobile Development | 2 | React Native
-| Testing Frameworks | 3 | Jest, ESlint
-| Animation Libraries | 2 | Framer Motion, Three.js
-| Database Solutions | 4 | MongoDB, Firebase 
-| Authentication | 3 | JWT, OAuth, Firebase Auth, NextAuth
-| API Tools | 3 | Postman, Swagger, GraphQL
-| Performance Optimization | 1 | Webpack
-| Containerization | 1 | Docker
-| Continuous Integration | 3 | GitHub Actions, Git, Gitlab
-| Design System | 5+ |  Radix UI, Chakra UI, Ant Design, Shad cn, MUI
-| State Management | 4 | Redux, Context API
+| Data Structures & Algorithms | Component-Based Architecture
+| Full-Stack Development | Responsive Web Design
+| Testing (Jest, ESLint) | Performance Optimization
 |===
 
-== 📊 GitHub Statistics
-[cols="3*^",frame=none,grid=none]
+## 🚀 Professional Experience & Expertise
+
+[cols="1,3",frame=none,grid=none]
+|===
+| *Frontend Development* | React.js component architecture, Next.js SSR/SSG, performance optimization, state management strategies
+| *Full-Stack Projects* | End-to-end web application development with modern JavaScript frameworks
+| *Teaching & Mentorship* | Technical curriculum development, mentoring junior developers, educational content creation
+| *Tools & Extensions* | VS Code extension development, CLI tool creation with Go, developer productivity tools
+|===
+
+## 📊 GitHub Statistics
+
+[cols="^,^,^",frame=none,grid=none]
 |===
 | image:https://github-readme-stats.vercel.app/api?username=abdurahmon27&theme=react&hide_border=true&include_all_commits=true&count_private=true[GitHub Stats]
 | image:https://github-readme-streak-stats.herokuapp.com/?user=abdurahmon27&theme=react&hide_border=true[GitHub Streak]
 | image:https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahmon27&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact[Top Languages]
 |===
 
-== ☕ Support My Work
-https://buymeacoffee.com/bekzotovich[image:https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black[]]
+## ☕ Support My Work
 
-
+visa card: 4278 3200 2518 8383
