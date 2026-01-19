@@ -18,7 +18,7 @@
 [source]
 ----
 Frontend:    TypeScript, React
-Backend:     Go · Node.js · PostgreSQL
+Backend:     Go · Node.js · Express.js · PostgreSQL · MongoDB
 ----
 
 ##  Connect
